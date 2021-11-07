@@ -1,4 +1,7 @@
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58176c59-2e65-4f22-b8a8-e4f059c46a2b/deploy-status)](https://app.netlify.com/sites/nifty-turing-9dbc06/deploys)
+
+<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
 
